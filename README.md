@@ -72,7 +72,7 @@ Uiteraard test je goed of alles werkt, door handmatig de url in de adresbalk te 
 ![screenshot-menu-balk.png](src/assets/screenshots/screenshot-menu-balk.png)
 Naast het feit dat er content op de pagina's moet komen te staan - hier komen we in opdracht 2 op terug - zul je ook
 moeten zorgen voor een goed werkende menu-balk met daarin de links naar:
-
+[.gitignore](.gitignore)
 * 'Home'
 * 'Alle posts'
 * 'Nieuwe post'
