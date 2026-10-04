@@ -111,7 +111,7 @@ De Smaken van Italië (Anna de Kok)
 12 reacties - 8 keer gedeeld
 ```
 
-De titels zijn links die de gebruiker **doorlinkt** naar de detailpagina van deze post.
+De titels zijn links die de gebruiker **doorlinkt** naar de detailpagina van deze post
 
 ### 2.2 Blogpost detail pagina
 
